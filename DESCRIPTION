@@ -1,0 +1,13 @@
+Package: dogs
+Title: Functions about dogs
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tomas",
+           family = "Westlake",
+           role = c("aut", "cre"),
+           email = "tom.westlake121@gmail.com")
+Description: This packages provides a set of functions that illustrate how dogs truly are man's best friend.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
